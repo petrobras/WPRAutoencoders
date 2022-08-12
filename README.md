@@ -14,7 +14,6 @@
   * [Ambition](#ambition)
   * [Contributions](#contributions)
   * [Licenses](#licenses)
-  * [Questions](#questions)
 * [Wellbore Pressure Response Generator](#wellbore-pressure-response-generator)
 * [Autoencoder Neural Network](#autoencoder-neural-network)
 * [Wellbore Pressure Response Dataset](#wellbore-pressure-response-dataset)
@@ -66,7 +65,7 @@ It is also very important to know, participate and follow the discussions. See t
 
 All the code of this project is licensed under the [Apache 2.0 License][apache] and all dataset data files (CSV files in the subdirectories of the [dataset](dataset) directory) are licensed under the [Creative Commons Attribution 4.0 International License][cc-by].
 
-# Wellbore Response Generator
+# Wellbore Pressure Response Generator
 
 The WPRGenerator class synthesizes wellbore pressure response based on 13 parameters:
 
@@ -107,3 +106,18 @@ This is the dataset that was used to train the [Autoencoder Neural Network](#aut
 |16 through 35|Timestamps used to calculate pressure variation and its derivative|
 |36 through 55|Pressure variation values|
 |56 through 75|Pressure variation derivative values|
+
+## Parameter variation
+
+|Parameter|Minimum|Maximum|
+|---|---|---|
+|Permeability — k (md)|50|1000|
+|Reservoir height — h (m)|10|300|
+|Volume formation factor — B (m3/m3)|1|2|
+|Wellbore storage|0.01|5|
+|Skin|-2|5|
+|Flow rate - m3/d|100|1000|
+|_Porosity_*|20%|20%|20%|
+|_Total compressibility (cm2/kgf)_*|1e-5|1e-5|1e
+|_Viscosity — $\mu (cp)$_*|1|1|
+|_Well radius - m_|0.108|0.108|
