@@ -1,4 +1,3 @@
-ipykernel==6.15.1
 matplotlib==3.5.3
 numpy==1.23.2
 openTSNE==0.6.2
