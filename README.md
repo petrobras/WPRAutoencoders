@@ -24,7 +24,7 @@ This is Petrobras' second repository on GitHub. It contains the Reservoir Autoen
 
 ## Motivation
 
-Well testing strategies are based on measuring pressure variation on reservoirs after production or injection. Based on these values and their derivatives, important information can be gathered about the formation such as the transmissibility ($\frac{k h}{\mu}$), formation damage (_skin_), reservoir geometry, etc.
+Well testing strategies are based on measuring pressure variation on reservoirs after production or injection. Based on these values and their derivatives, important information can be gathered about the formation such as the transmissibility, formation damage (_skin_), reservoir geometry, etc.
 
 The Reservoir Autoencoders repository contains the [wellbore pressure response generator](#wellbore-pressure-response-generator), an [autoencoder neural network](#autoencoder-neural-network) and a [wellbore pressure response dataset](#wellbore-pressure-response-dataset).
 
