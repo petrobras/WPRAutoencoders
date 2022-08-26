@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Online communities include people from many different backgrounds. The 3W contributors are committed to providing a friendly, safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
+Online communities include people from many different backgrounds. The WPRAutoencoders contributors are committed to providing a friendly, safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
 
-The first goal of this code of conduct is to specify a baseline standard of behavior so that people with different social values and communication styles can talk about 3W effectively, productively, and respectfully.
+The first goal of this code of conduct is to specify a baseline standard of behavior so that people with different social values and communication styles can talk about WPRAutoencoders effectively, productively, and respectfully.
 
 The second goal is to provide a mechanism for resolving conflicts in the community when they arise.
 
@@ -14,7 +14,7 @@ We believe that healthy debate and disagreement are essential to a healthy proje
 
 ## Our Values
 
-These are the values to which people in the 3W community should aspire:
+These are the values to which people in the WPRAutoencoders community should aspire:
 
 * **Be friendly and welcoming;**
 * **Be patient;** 
