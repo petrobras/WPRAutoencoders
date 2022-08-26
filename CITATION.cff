@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use any resource published in this repository, please cite it as below."
+authors:
+- family-names: "Moreira Araújo"
+  given-names: "Rodrigo"
+  email: rodrigoma@petrobras.com.br
+  affiliation: Petróleo Brasileiro S.A.
+  orcid: "https://orcid.org/0000-0001-5341-1549"
+- family-names: "Kenji Kubota"
+  given-names: "Leonardo"
+  email: lkubota@petrobras.com.br
+  affiliation: Petróleo Brasileiro S.A.
+  orcid: "https://orcid.org/0000-0002-0327-861X"
+- family-names: "Forero Mendoza"
+  given-names: "Leonardo Alfredo"
+  email: prof.leonardo@ica.ele.puc-rio.br
+  affiliation: Pontifícia Universidade Católica do Rio de Janeiro
+  orcid: ""
+title: "WPRAutoencoders"
+version: 1.0.0
+date-released: "2022-08-26"
+url: "https://github.com/petrobras/wprautoencoders"
